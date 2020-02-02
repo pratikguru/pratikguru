@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/prat_guru/static/css/main.d1b05096.chunk.css",
+    "main.js": "/prat_guru/static/js/main.bfb09fe4.chunk.js",
+    "main.js.map": "/prat_guru/static/js/main.bfb09fe4.chunk.js.map",
+    "runtime-main.js": "/prat_guru/static/js/runtime-main.fedcb270.js",
+    "runtime-main.js.map": "/prat_guru/static/js/runtime-main.fedcb270.js.map",
+    "static/js/2.ccb3a20e.chunk.js": "/prat_guru/static/js/2.ccb3a20e.chunk.js",
+    "static/js/2.ccb3a20e.chunk.js.map": "/prat_guru/static/js/2.ccb3a20e.chunk.js.map",
+    "index.html": "/prat_guru/index.html",
+    "precache-manifest.9c8e044d23c6545b5217a7df04fe9b3e.js": "/prat_guru/precache-manifest.9c8e044d23c6545b5217a7df04fe9b3e.js",
+    "service-worker.js": "/prat_guru/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/prat_guru/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.ccb3a20e.chunk.js.LICENSE.txt": "/prat_guru/static/js/2.ccb3a20e.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/prat_guru/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fedcb270.js",
+    "static/js/2.ccb3a20e.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.bfb09fe4.chunk.js"
+  ]
+}
