@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/pratguru/static/css/main.d1b05096.chunk.css",
-    "main.js": "/pratguru/static/js/main.9b386191.chunk.js",
-    "main.js.map": "/pratguru/static/js/main.9b386191.chunk.js.map",
-    "runtime-main.js": "/pratguru/static/js/runtime-main.0f503700.js",
-    "runtime-main.js.map": "/pratguru/static/js/runtime-main.0f503700.js.map",
-    "static/js/2.ccb3a20e.chunk.js": "/pratguru/static/js/2.ccb3a20e.chunk.js",
-    "static/js/2.ccb3a20e.chunk.js.map": "/pratguru/static/js/2.ccb3a20e.chunk.js.map",
-    "index.html": "/pratguru/index.html",
-    "precache-manifest.08f283e249ca561340fdc779b9602bf2.js": "/pratguru/precache-manifest.08f283e249ca561340fdc779b9602bf2.js",
-    "service-worker.js": "/pratguru/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/pratguru/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.ccb3a20e.chunk.js.LICENSE.txt": "/pratguru/static/js/2.ccb3a20e.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/pratguru/static/media/logo.5d5d9eef.svg"
+    "main.css": "/pratikguru/static/css/main.d1b05096.chunk.css",
+    "main.js": "/pratikguru/static/js/main.3f343775.chunk.js",
+    "main.js.map": "/pratikguru/static/js/main.3f343775.chunk.js.map",
+    "runtime-main.js": "/pratikguru/static/js/runtime-main.66b85c99.js",
+    "runtime-main.js.map": "/pratikguru/static/js/runtime-main.66b85c99.js.map",
+    "static/js/2.ccb3a20e.chunk.js": "/pratikguru/static/js/2.ccb3a20e.chunk.js",
+    "static/js/2.ccb3a20e.chunk.js.map": "/pratikguru/static/js/2.ccb3a20e.chunk.js.map",
+    "index.html": "/pratikguru/index.html",
+    "precache-manifest.762d469b3381e15ac074079a21965545.js": "/pratikguru/precache-manifest.762d469b3381e15ac074079a21965545.js",
+    "service-worker.js": "/pratikguru/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/pratikguru/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.ccb3a20e.chunk.js.LICENSE.txt": "/pratikguru/static/js/2.ccb3a20e.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/pratikguru/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.0f503700.js",
+    "static/js/runtime-main.66b85c99.js",
     "static/js/2.ccb3a20e.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.9b386191.chunk.js"
+    "static/js/main.3f343775.chunk.js"
   ]
 }
