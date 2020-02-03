@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8f3ffb82cabff07c868c9555da492bb7",
+    "revision": "89834dea64790fb6d8d29c8c36b66ca0",
     "url": "/pratikguru/index.html"
   },
   {
-    "revision": "80608be56fbd07b2d21d",
-    "url": "/pratikguru/static/css/main.d1b05096.chunk.css"
+    "revision": "8c802885cb58cdebe7e7",
+    "url": "/pratikguru/static/css/main.266173d9.chunk.css"
   },
   {
-    "revision": "482ac43ba6a5174f0c8c",
-    "url": "/pratikguru/static/js/2.dc4af72b.chunk.js"
+    "revision": "db55c1eb34b671ba822b",
+    "url": "/pratikguru/static/js/2.7bdb2b4e.chunk.js"
   },
   {
     "revision": "0bdc4f0d8b3d84ae6a73bb9902b479ee",
-    "url": "/pratikguru/static/js/2.dc4af72b.chunk.js.LICENSE.txt"
+    "url": "/pratikguru/static/js/2.7bdb2b4e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "80608be56fbd07b2d21d",
-    "url": "/pratikguru/static/js/main.dcd0c34f.chunk.js"
+    "revision": "8c802885cb58cdebe7e7",
+    "url": "/pratikguru/static/js/main.904e5c1c.chunk.js"
   },
   {
     "revision": "299e7a39fdf5edf40686",
