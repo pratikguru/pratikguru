@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e781c1e398065879c811d5e0d9ce57fb",
+    "revision": "3d5d2efa3a0742adc0a0eabad134af70",
     "url": "/pratikguru/index.html"
   },
   {
-    "revision": "f862a3bc8759595cf60c",
+    "revision": "4da8cdf5e0be0eea38fd",
     "url": "/pratikguru/static/css/main.266173d9.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pratikguru/static/js/2.a88f3479.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f862a3bc8759595cf60c",
-    "url": "/pratikguru/static/js/main.62501b75.chunk.js"
+    "revision": "4da8cdf5e0be0eea38fd",
+    "url": "/pratikguru/static/js/main.55ba4425.chunk.js"
   },
   {
     "revision": "299e7a39fdf5edf40686",
